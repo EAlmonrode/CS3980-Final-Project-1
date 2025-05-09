@@ -1,0 +1,13 @@
+today_str = datetime.today().strftime('%Y-%m-%d')
+2025-05-07 21:41:52,743: passlib.handlers.bcrypt: WARN - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/Users/willmccall/coding/school/web-development/final-project-1/CS3980-Final-Project-1/api/.venv/lib/python3.13/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2025-05-07 21:41:53,117: logs.logging: INFO - User Will logged in successfully
+2025-05-07 21:43:23,195: logs.logging: INFO - User NewWill logged in successfully
+2025-05-07 21:43:36,245: logs.logging: INFO - Non-Admin NewWill tried to go to admin page
+2025-05-07 21:43:36,246: logs.logging: INFO - Non-Admin NewWill tried to go to admin page
+2025-05-07 21:43:36,247: logs.logging: INFO - Non-Admin NewWill tried to go to admin page
+2025-05-07 21:43:57,854: logs.logging: INFO - User Will logged in successfully
