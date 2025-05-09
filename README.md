@@ -104,5 +104,5 @@ This project is a full-stack web application that allows users to create and man
 
 ---
 
-**Author**: Ethan Almonrode, Will McCall
+**Authors**: Ethan Almonrode, Will McCall\n
 **Course**: CS3980 Final Project
