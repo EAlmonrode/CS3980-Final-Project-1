@@ -76,14 +76,14 @@ Traceback (most recent call last):
 AttributeError: module 'bcrypt' has no attribute '__about__'
 2025-05-08 20:36:49,498: logs.logging: INFO - User test logged in successfully
 2025-05-08 20:37:00,503: logs.logging: INFO - User test created note 'ghj' in group '6816ac30d9174c2ff81dcc14'
-2025-05-08 20:42:16,980: passlib.handlers.bcrypt: WARN - (trapped) error reading bcrypt version
-Traceback (most recent call last):
-  File "c:\Users\Ethan\Downloads\CS3980-Final-Project-main (1)\CS3980-Final-Project-main\.venv\Lib\site-packages\passlib\handlers\bcrypt.py", line 620, in _load_backend_mixin
-    version = _bcrypt.__about__.__version__
-              ^^^^^^^^^^^^^^^^^
-AttributeError: module 'bcrypt' has no attribute '__about__'
 2025-05-08 20:42:17,175: logs.logging: INFO - User test logged in successfully
 2025-05-08 20:45:46,077: logs.logging: INFO - User test logged in successfully
 2025-05-08 20:45:58,442: logs.logging: INFO - User test created note 't' in group '6816ac30d9174c2ff81dcc14'
 2025-05-08 22:33:55,523: logs.logging: INFO - User test logged in successfully
 2025-05-08 22:44:14,142: logs.logging: INFO - User testuser created successfully
+2025-05-08 23:09:29,229: logs.logging: INFO - User Will logged in successfully
+2025-05-08 23:10:14,207: logs.logging: INFO - User Will created note 'note' in group '681a5509625ea080bfd7b81a'
+2025-05-08 23:14:54,198: logs.logging: INFO - User Will logged in successfully
+2025-05-08 23:15:01,470: logs.logging: INFO - User Will created group group2
+2025-05-08 23:15:37,035: logs.logging: INFO - User Will created note 'another note' in group '681d814517178a039d13f508'
+2025-05-08 23:17:40,568: logs.logging: INFO - User NewWill logged in successfully
