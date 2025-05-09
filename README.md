@@ -61,7 +61,7 @@ This project is a full-stack web application that allows users to create and man
 * **Front end**: Vue, HTML, CSS, JavaScript
 * **Back end**: Python, FastAPI
 * **Database**: MongoDB
-* **Testing**: (pytest)
+* **Testing**: pytest
 
 ## Installation
 
