@@ -2,14 +2,14 @@
 
 ## Project Overview
 
-This project is a full-stack web application that allows users to create and manage personal notes and groups. It includes user authentication, an admin interface, and detailed logging. The back end is powered by **MongoDB**, and the front end is built with **Vue**.
+This project is a full-stack web application that allows users to create and manage personal notes and groups. It includes user authentication, an admin interface, and detailed logging. The back end is powered by **FastAPI**, and the front end is built with **Vue**.
 
 ## Features
 
 * User authentication (sign up, login)
-* Create, edit, and delete notes
+* Create and delete notes
 * Organize notes into groups
-* Admin dashboard for managing users and viewing logs
+* Admin dashboard for viewing all info
 * Data persistence with MongoDB
 * Logging of application events
 * Automated testing suite
